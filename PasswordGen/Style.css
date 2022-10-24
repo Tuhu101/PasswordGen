@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: rebeccapurple;
+    background-color: grey;
     color: white;
     display: flex;
     align-items: center;
@@ -16,7 +16,7 @@ body {
 }
 
 .pw-container {
-    background-color: rgb(46, 12, 80);
+    background-color: rgb(105,105,105);
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
     min-width: 400px;
 }
@@ -26,7 +26,7 @@ body {
 }
 
 .pw {
-    background-color: rgb(69, 28, 109);
+    background-color: rgb(79, 82, 79);
     display: flex;
     font-size: 1.5rem;
     align-items: center;
@@ -70,9 +70,9 @@ body {
 }
 
 .generate {
-    background-color: #ecb602;
+    background-color: #0a0a0a;
     border: none;
-    color: rebeccapurple;
+    color: rgb(19, 211, 29);
     cursor: pointer;
     display: block;
     font-size: 1.5rem;
